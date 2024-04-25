@@ -1,0 +1,16 @@
+[
+  {
+    "id": "i_tmc7q8x3Ha-TwUK-xCk",
+    "firstName": "bader",
+    "lastName": "harry",
+    "favoriteLanguage": "Java",
+    "isStudent": true
+  },
+  {
+    "id": "6C0xm9I37tS5EuQ8cf7_E",
+    "firstName": "samir",
+    "lastName": "bouheli",
+    "favoriteLanguage": "JavaScript",
+    "isStudent": true
+  }
+]
